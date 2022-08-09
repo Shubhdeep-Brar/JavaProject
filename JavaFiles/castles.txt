@@ -1,0 +1,11 @@
+In this file there are going to be 3 sample inputs. Feel free to add more sample
+inputs yourself. The format of the sample inputs would be like:
+[2,6,6,6,3]
+[6,1,4]
+[6]
+In this file, each line shows one sample input. Your program should be able to read the
+file and all the lines and run the project for the sample input and generate the results in
+console.
+oTo evaluate your program the instructor will add another 10 sample inputs to this file
+when evaluating your project. For each failed test, 5% will be deducted from the total
+mark for that question.

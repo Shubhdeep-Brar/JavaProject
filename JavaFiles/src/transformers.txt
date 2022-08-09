@@ -1,0 +1,15 @@
+Similar to castles.txt, this file will also include 2 sample inputs which you can use
+to develop and test your program. You are welcome to add more sample inputs to
+this file. The format of the sample inputs would be like:
+
+Soundwave, D, 8,9,2,6,7,5,6,10* CliXumper, D, 8,9,2,6,7,5,6,10
+Bluestreak, A, 6,6,7,9,5,2,9,7* Hubcap, A, 4,4,4,4,4,4,4,4
+
+Soundwave, D, 8,9,2,6,7,5,6,10*Cliffjumper, D, 8,9,3,5,3,4,8,10
+Bluestreak, A, 6,6,7,9,5,2,9,7
+
+In this file every 2 lines represent a game. Your program should be able to ready the informa9on
+from the file and run your program on the informa9on and generate the results on the console.
+oTo evaluate your program the instructor will add another 10 sample inputs to this file
+when evaluating your project. For each failed test, 5% will be deducted from the total
+mark for that question.
